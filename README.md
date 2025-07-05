@@ -24,11 +24,11 @@ details:
   work.
 
 If you find my efforts useful, consider [sponsoring my
-work](https://github.com/sponsors/mosabua):
+work](https://github.com/sponsors/mosabua) and have a look at my work:
 
 * [Project board](https://github.com/orgs/simpligility/projects/1/views/1)
 * [Backlog tasks](https://github.com/orgs/simpligility/projects/1/views/8)
 * [Current tasks](https://github.com/orgs/simpligility/projects/1/views/5)
 * [Completed tasks](https://github.com/orgs/simpligility/projects/1/views/7)
 
-[**Sponsor Manfred**](https://github.com/sponsors/mosabua)
+## [:heart: Sponsor and support Manfred](https://github.com/sponsors/mosabua)
