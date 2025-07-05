@@ -4,9 +4,7 @@ This project acts as open source contributions tracker for myself, [Manfred
 Moser @mosabua](https://github.com/mosabua), to manage my work and expose the
 efforts in one place for better visibility to potential sponsors and supporters.
 
-<a href="https://github.com/sponsors/mosabua">
-<button type="button">Sponsor and support Manfred</button>
-</a>
+[![Sponsor and support Manfred]][https://github.com/sponsors/mosabua]
 
 I have worked on open source projects for decades as my passion projects and as
 part of my employments and contracts. Inspect the following resources for more
