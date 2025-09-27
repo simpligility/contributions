@@ -1,4 +1,4 @@
-# Manfred Moser mosabua - Contributions tracker
+# simpligility contributions tracker - work by Manfred Moser mosabua
 
 This project acts as open source contributions tracker for myself, [Manfred
 Moser @mosabua](https://github.com/mosabua), to manage my work and expose the
